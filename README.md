@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Python+%26+SQL+Learner+%F0%9F%90%8D;Web+Developer+%7C+Software+Engineer+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Developer+%F0%9F%93%8A;Python+%26+Java+SQL+Learner+%F0%9F%90%8D;Web+Developer+%7C+Software+Engineer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,9 +41,9 @@ I'm a final-year B.Tech CSE student who enjoys turning raw data and rough ideas 
 
 ## 🧠 Tech Stack
 
-**Languages:** Java • Python • JavaScript • SQL • C++
+**Languages:** Java • Python • JavaScript • SQL • C++ 
 
-**Web Development (MERN):** MongoDB • Express.js • React.js • Node.js
+**Web Development (MERN):** MongoDB • Express.js • React.js • Node.js 
 
 **Data & Analytics:** Pandas • NumPy • Matplotlib • Seaborn • Plotly • Pytrends
 
